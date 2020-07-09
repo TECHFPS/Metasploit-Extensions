@@ -2,8 +2,8 @@ gem install bundler:1.17.3
 bundle update --bundler
 pkg install figlet -y
 figlet FIRST TIME SETUP
-figlet digital SUBSCRIBE US
-figlet digital TECH FPS
+figlet SUBSCRIBE US
+figlet TECH FPS
 pkg install ruby clang make pkg-config libxslt
 gem install nokogiri -- --use-system-libraries
 bundle install
